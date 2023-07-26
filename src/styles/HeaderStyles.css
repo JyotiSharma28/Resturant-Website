@@ -1,0 +1,31 @@
+.Navigation-menu{
+    list-style:none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.Navigation-menu li {
+    margin: 0px 20px;
+}
+
+.Navigation-menu a{
+    color:white;
+    text-decoration: none;
+}
+/* mobile navigation */
+.Mobile-menu{
+    list-style: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.Mobile-menu li{
+margin-top: 20px;
+margin-right: 20px;
+
+}
+
+.Mobile-menu li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color:black
+}
